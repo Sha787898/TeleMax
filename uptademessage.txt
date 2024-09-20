@@ -1,9 +1,9 @@
 
 {
   "Max": {
-    "update_code": "0",
+    "update_code": "1",
     "reminder_time": "3",
-    "update_version": "v3.50",
+    "update_version": "v3.70",
     "org.telegram.max": "https://t.me/shabidmod",
     "update_message": "
 <li>Base Update: 10.13.1.2</li>
