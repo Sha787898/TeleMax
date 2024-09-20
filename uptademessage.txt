@@ -1,6 +1,6 @@
 
 {
-  "Gold": {
+  "Max": {
     "update_code": "0",
     "reminder_time": "3",
     "update_version": "v3.50",
